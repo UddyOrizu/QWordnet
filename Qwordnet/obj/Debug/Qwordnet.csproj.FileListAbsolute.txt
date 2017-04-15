@@ -1,0 +1,5 @@
+C:\work\Qwordnet\Qwordnet\bin\Debug\Qwordnet.dll
+C:\work\Qwordnet\Qwordnet\bin\Debug\Qwordnet.pdb
+C:\work\Qwordnet\Qwordnet\obj\Debug\Qwordnet.csprojResolveAssemblyReference.cache
+C:\work\Qwordnet\Qwordnet\obj\Debug\Qwordnet.dll
+C:\work\Qwordnet\Qwordnet\obj\Debug\Qwordnet.pdb
